@@ -14,7 +14,7 @@
  
 # License
 
-    Copyright 2015, KyoSherlock
+    Copyright 2016, KyoSherlock
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
