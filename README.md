@@ -1,4 +1,4 @@
-## ImageLoader
+## ImageLoader(未完工)
 ###基于picasso,Luban进行简单封装的工具库
 ###更新时间2016.8.31
 ###power by:[王亟亟](http://blog.csdn.net/ddwhan0123 "王亟亟的博客")
